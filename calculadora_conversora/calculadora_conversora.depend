@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616632462 source:c:\users\alexi\documents\univali\modulo_1\howi\calculadora_conversora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
